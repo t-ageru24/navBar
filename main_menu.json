@@ -1,0 +1,5 @@
+[
+    { "name": "Menu 1", "submenu": "submenu1.json" },
+    { "name": "Menu 2", "submenu": "submenu2.json" },
+    { "name": "Menu 3", "submenu": "submenu3.json" }
+]

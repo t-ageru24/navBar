@@ -1,0 +1,6 @@
+[
+    { "name": "Submenu 1", "thirdmenu": "child1" },
+    { "name": "Submenu 2", "thirdmenu": "child2" },
+    { "name": "Submenu 3", "thirdmenu": "child3" },
+    { "name": "Submenu 4", "thirdmenu": "child4" }
+]
